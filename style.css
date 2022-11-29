@@ -1,0 +1,21 @@
+
+.block-2{
+    background-color: white;
+    background: url(https://m.media-amazon.com/images/I/91MteSqsrJL.jpg);
+}
+.block-1{
+    background-color: white;
+    background: url(https://m.media-amazon.com/images/I/91MteSqsrJL.jpg);
+}
+body{
+    background: 
+    no-repeat url(https://cdn.shopify.com/s/files/1/0191/7850/products/RICKMORTYCORPASSETS_1-COVERCFNLWEB.jpg?v=1636504113);
+    background-size: 100%;
+
+}
+.wrapper {
+    
+    padding: 40px;
+}
+
+/* https://m.media-amazon.com/images/I/91MteSqsrJL.jpg */
